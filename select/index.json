@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だっせー恋ばっかしやがって",
+  "base_artist": "忘れらんねえよ",
+  "createdAt": "2026-03-19T01:14:42.473584Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だっせー恋ばっかしやがって",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_01_だっせー恋ばっかしやがって_忘れらんねえよ.txt"
+    }
+  ]
+}
